@@ -1,0 +1,14 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+	margin:0;
+	padding: 0;
+	background-color:#336699;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 1em;
+	font-style: italic;
+	font-weight: bold;
+	text-decoration: underline overline;
+}
+
