@@ -1,12 +1,13 @@
-a#announcement-wrap {
+#announcement-wrap {
+  position: relative;
   color: inherit;
 }
 
 .oval2 {
-  margin-left: 1040px;
-  z-index: 1;
+  margin-left: 840px;
+  z-index: 2;
   position: absolute;
-  margin-top: 55px;
+  margin-top: -25px;
   width: 180px;
   height: 90px;
   background: blue;
@@ -16,10 +17,10 @@ a#announcement-wrap {
 }
 
 .oval1 {
-  margin-left: 1030px;
+  margin-left: 830px;
   z-index: 2;
   position: absolute;
-  margin-top: 50px;
+  margin-top: -30px;
   width: 180px;
   height: 90px;
   background: rgb(255, 255, 90);
