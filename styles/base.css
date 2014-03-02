@@ -1,0 +1,42 @@
+a#announcement-wrap {
+  color: inherit;
+}
+
+.oval2 {
+  margin-left: 1040px;
+  z-index: 1;
+  position: absolute;
+  margin-top: 55px;
+  width: 180px;
+  height: 90px;
+  background: blue;
+  -moz-border-radius: 100px / 50px;
+  -webkit-border-radius: 100px / 50px;
+  border-radius: 100px / 50px;
+}
+
+.oval1 {
+  margin-left: 1030px;
+  z-index: 2;
+  position: absolute;
+  margin-top: 50px;
+  width: 180px;
+  height: 90px;
+  background: rgb(255, 255, 90);
+  -moz-border-radius: 100px / 50px;
+  -webkit-border-radius: 100px / 50px;
+  border-radius: 100px / 50px;
+}
+
+.announcement {
+  text-align: center;
+  margin-top: 15px;
+}
+
+.announcement span.label-small {
+  font-style: italic;
+}
+
+.announcement span.label {
+  font-weight: bold;
+}
